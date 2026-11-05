@@ -1,62 +1,54 @@
-<!-- Profile README for Nourhan El-Sayed -->
-
-<h1 align="center">Hi, I’m Nourhan El-Sayed 👋</h1>
+<h1 align="center">Nourhan El-Sayed</h1>
 
 <p align="center">
-  <b>Computer Science graduate & Backend Developer</b><br/>
-  Passionate about problem-solving, backend development, and learning new technologies.
+  Full-stack engineer building .NET and Java backends, REST APIs, and Angular frontends.<br/>
+  Giza, Egypt
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nourhan-ziada-409462224">LinkedIn</a> |
+  <a href="mailto:norsayed369@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🛠️ Skills / Tech Stack
+### Currently
 
-- C#, .NET Core (API, MVC), SQL Server, Entity Framework
-- JavaScript, HTML, CSS
-- Git & GitHub
+- Building a hospital management platform — developing RESTful APIs and Angular features.
+- Exploring Java/Spring Boot microservices, clean architecture, and performance optimization.
 
-### 📊 Language Usage
+### Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Featured Projects
+
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [RallyDeals](https://github.com/RallyDeals) | Group-deals platform: browse and join deals, manage participation, and pay securely with Stripe | Java, Spring Boot, Angular, TypeScript |
+| [Note Mood](https://drive.google.com/drive/folders/1rtO5elqI6k6FjgXNKQtXfAkA437AlHFW) | Sentiment-based journaling platform (graduation project) | .NET API, SQL Server, LINQ, Hangfire |
+| [GoCartWorld](https://github.com/Nourhan-Ziada/GoCartWorldE-CommerceSystem) | E-commerce platform for managing products, carts, and orders | .NET Core MVC, LINQ, JavaScript, SQL Server |
+
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhan-Ziada&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nourhan-Ziada&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nourhan-Ziada&theme=tokyonight" alt="Repositories per Language" />
 </p>
 
 ---
 
-## 💼 Experience & Projects
+### Contact
 
-- <b>Associate Software Engineer</b> — Mufaddal for Food Industries  
-  - ERP workflows, API integration, and backend solutions.
-- <b>ITI .NET Backend Developer Trainee</b>  
-  - Specialized training in .NET technologies and backend development.
-
-### 🚀 Selected Projects
-- <b>Note Mood (Graduation Project):</b> Sentiment-based note-taking application.
-- <b>GoCartWorld (E-commerce):</b> Online shopping platform.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nourhan-Ziada&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nourhan-Ziada&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 👩‍💻 About Me
-
-I enjoy building scalable backend solutions, integrating APIs, and working with data-driven applications.  
-I’m currently enhancing my front-end skills and learning new backend technologies.
-
----
-
-## 📫 Contact
-
-- Email: <a href="mailto:norsayed369@gmail.com">norsayed369@gmail.com</a>
-- GitHub: <a href="https://github.com/Nourhan-Ziada">Nourhan-Ziada</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/nourhan-ziada-409462224">nourhan-ziada-409462224</a>
+- Email: [norsayed369@gmail.com](mailto:norsayed369@gmail.com)
+- LinkedIn: [nourhan-ziada-409462224](https://www.linkedin.com/in/nourhan-ziada-409462224)
